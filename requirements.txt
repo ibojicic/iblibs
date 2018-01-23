@@ -1,0 +1,13 @@
+aplpy
+xlrd
+reproject
+pyphot
+MySQL-python
+qb_libraries
+pandas
+scipy
+numpy
+matplotlib
+click
+astropy
+voluptuous
